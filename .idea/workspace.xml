@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1807edf7-5fa1-4bbb-93ad-437b3547ae55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/coding-train-project/background.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding-train-project/content.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding-train-project/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadTracker/content.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leadTracker/content-script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leadTracker/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/leadTracker/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leadTracker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/leadTracker/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leadTracker/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadTracker/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leadTracker/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/leadTracker/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadTracker/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadTracker/content.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +55,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="579" y="238" width="881" height="604" key="NewModule_or_Project.wizard" timestamp="1639934792764">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="579" y="238" width="881" height="604" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1639934792764" />
     <state x="457" y="165" key="RollbackChangesDialog" timestamp="1639790217655">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
