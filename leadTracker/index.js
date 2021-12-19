@@ -6,6 +6,8 @@ const deleteBtn = document.getElementById("delete-btn")
 const leadsFromLocalStorage = JSON.parse( localStorage.getItem("myLeads") )
 const tabBtn = document.getElementById("tab-btn")
 const pEl = document.getElementById("message")
+const inBtn = document.getElementById("insights-btn")
+const insightsEl = document.getElementById("insights")
 
 console.log("here i am!")
 pEl.textContent = ""
@@ -55,3 +57,19 @@ inputBtn.addEventListener("click", function() {
     localStorage.setItem("myLeads", JSON.stringify(myLeads) )
     render(myLeads)
 })
+
+inBtn.addEventListener("click", popup)
+
+
+ function popup() {
+    chrome.tabs.query({currentWindow: true, active: true}, function (tabs){
+    let activeTab = tabs[0];
+    chrome.tabs.sendMessage(activeTab.id, {"message": "start"}, responsefunc);
+    console.log("sending message")
+   });
+}
+
+function responsefunc(message){
+    console.log(message)
+    insightsEl.textContent = message.data.title
+}

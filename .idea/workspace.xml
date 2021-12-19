@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1807edf7-5fa1-4bbb-93ad-437b3547ae55" name="Default Changelist" comment="" />
+    <list default="true" id="1807edf7-5fa1-4bbb-93ad-437b3547ae55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/coding-train-project/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding-train-project/content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding-train-project/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leadTracker/content.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadTracker/content-script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadTracker/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/leadTracker/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadTracker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/leadTracker/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadTracker/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadTracker/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leadTracker/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/leadTracker/manifest.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +41,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -48,5 +61,23 @@
       <updated>1639753484976</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="165" key="RollbackChangesDialog" timestamp="1639790217655">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="165" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1639790217655" />
+    <state x="397" y="279" key="com.intellij.ide.util.TipDialog" timestamp="1639790841894">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="279" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1639790841894" />
+    <state x="383" y="207" width="674" height="486" key="find.popup" timestamp="1639791033604">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="207" width="674" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1639791033604" />
+    <state x="363" y="263" key="new project wizard" timestamp="1639758273118">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="363" y="263" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1639758273118" />
   </component>
 </project>

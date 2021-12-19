@@ -26,6 +26,10 @@ button {
     color: #5f9341;
 }
 
+#insights-btn {
+    margin: 10px;
+}
+
 ul {
     margin-top: 20px;
     list-style: none;
