@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1807edf7-5fa1-4bbb-93ad-437b3547ae55" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leadTracker/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/leadTracker/content.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,14 +58,16 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="579" y="238" width="881" height="604" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1639934792764" />
-    <state x="457" y="165" key="RollbackChangesDialog" timestamp="1639790217655">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="609" y="198" key="RollbackChangesDialog" timestamp="1640283299683">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="457" y="165" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1639790217655" />
-    <state x="397" y="279" key="com.intellij.ide.util.TipDialog" timestamp="1639790841894">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="609" y="198" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1640283299683" />
+    <state x="529" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1640523654895">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="397" y="279" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1639790841894" />
+    <state x="397" y="279" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1640478787192" />
+    <state x="529" y="335" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1640523654895" />
     <state x="383" y="207" width="674" height="486" key="find.popup" timestamp="1639791033604">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
